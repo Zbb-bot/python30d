@@ -1,0 +1,2 @@
+# python30d
+pythonlearning
